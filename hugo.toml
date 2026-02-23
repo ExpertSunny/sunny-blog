@@ -1,4 +1,4 @@
-baseURL = 'https://blog.sunny.onl'
-languageCode = 'en-us'
-title = 'Sunny Blog'
-theme: hugo-ficurinia
+baseURL = "https://blog.sunny.onl"
+languageCode = "en-us"
+title = "Sunny Blog"
+theme = "hugo-ficurinia"
