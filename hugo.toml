@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Sunny Blog"
 theme = "hugo-ficurinia"
 defaultContentLanguage = "en"
+disableHugoGeneratorInject = true
 
 # this will be included in the footer after the current year the site is last
 # built, followed by the (c) symbol
